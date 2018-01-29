@@ -1,7 +1,7 @@
 {
-  "author": "YOU <YOU@example.com>",
-  "name": "my_actionhero_project",
-  "description": "my actionhero project",
+  "author": "James and James Tech",
+  "name": "jj_queue_monitor",
+  "description": "Monitors a jj_queue redis instance.",
   "version": "0.1.0",
   "engines": {
     "node": ">=8.0.0"
